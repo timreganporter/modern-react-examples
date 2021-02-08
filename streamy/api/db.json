@@ -1,0 +1,25 @@
+{
+  "streams": [
+    {
+      "title": "My stream",
+      "description": "check it out",
+      "id": 1
+    },
+    {
+      "title": "Other stream",
+      "description": "For testing",
+      "id": 2
+    },
+    {
+      "title": "Tim's Stream",
+      "description": "from trp",
+      "userId": "115859055650994193960",
+      "id": 5
+    },
+    {
+      "title": "Prog nav updated",
+      "description": "Should return",
+      "id": 6
+    }
+  ]
+}
